@@ -1,0 +1,7 @@
+venv/
+.venv/
+node_modules/
+allure-results/
+reports/
+*.log
+.env
